@@ -1,0 +1,26 @@
+# Archivos generados por Cargo
+/target/
+Cargo.lock
+
+# Archivos temporales de compilación
+*.rs.bk
+*.rs.orig
+
+# Archivos de configuración de IDE
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Archivos de caché
+*.cache
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de pruebas
+/tests/test_output/
